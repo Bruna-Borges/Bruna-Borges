@@ -1,6 +1,5 @@
 ### Olá, eu sou a Bruna! 👋
 
-- 🔭 Atualmente trabalho como estagiária na área de moba iOS.
-- 🌱 Procurando aprender tudo relacionado a programação em Swift.
+- 🌱 Procurando aprender.
 - 📫 Meu email: borgesbruna2510@gmail.com
-- ⚡ Sempre disposta aprender e ajudar.
+- ⚡ Sempre disposta a ajudar.
