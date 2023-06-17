@@ -28,4 +28,3 @@ Procurando ser cada dia melhor no que eu faço... 😀
 - borgesbruna2510@gmail.com
 - (11) 94534-1125
 
-![Snake animation](https://github.com/bruna-borges/bruna-borges/blob/output/github-contribuition-grid-snake.svg)
